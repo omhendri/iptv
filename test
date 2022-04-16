@@ -348,144 +348,144 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 
 
-#EXTINF:-1 group-title="IPTV",SCTV
+#EXTM3U
+#EXTINF:-1 group-title="URFAN_Test",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
+#EXTINF:-1 group-title="URFAN_Test",INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANSTV
+#EXTINF:-1 group-title="URFAN_Test",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANS7
+#EXTINF:-1 group-title="URFAN_Test",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="IPTV",KOMPASTV
+#EXTINF:-1 group-title="URFAN_Test",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANTV
+#EXTINF:-1 group-title="URFAN_Test",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVONE
+#EXTINF:-1 group-title="URFAN_Test",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
+#EXTINF:-1 group-title="URFAN_Test",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV",NETTV
+#EXTINF:-1 group-title="URFAN_Test",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV",RTV
+#EXTINF:-1 group-title="URFAN_Test",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI
+#EXTINF:-1 group-title="URFAN_Test",TVRI
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATU
+#EXTINF:-1 group-title="URFAN_Test",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUWORLD
+#EXTINF:-1 group-title="URFAN_Test",BERITASATUWORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
+#EXTINF:-1 group-title="URFAN_Test",BERITASATUENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",MYTV
+#EXTINF:-1 group-title="URFAN_Test",MYTV
 http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",OCHANNEL
+#EXTINF:-1 group-title="URFAN_Test",OCHANNEL
 http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",JAKTV
+#EXTINF:-1 group-title="URFAN_Test",JAKTV
 http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",DAAITV
+#EXTINF:-1 group-title="URFAN_Test",DAAITV
 http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 group-title="IPTV",ELSHINTATV
+#EXTINF:-1 group-title="URFAN_Test",ELSHINTATV
 http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="IPTV",RODJATV
+#EXTINF:-1 group-title="URFAN_Test",RODJATV
 http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 group-title="IPTV",QURANTV
+#EXTINF:-1 group-title="URFAN_Test",QURANTV
 http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="IPTV",SUNNAHTV
+#EXTINF:-1 group-title="URFAN_Test",SUNNAHTV
 http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIPLUS
+#EXTINF:-1 group-title="URFAN_Test",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIMAX
+#EXTINF:-1 group-title="URFAN_Test",ANIMAX
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="IPTV",MKIDZ
+#EXTINF:-1 group-title="URFAN_Test",MKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="IPTV",TOONKIDZ
+#EXTINF:-1 group-title="URFAN_Test",TOONKIDZ
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
-#EXTINF:-1 group-title="IPTV",HITS
+#EXTINF:-1 group-title="URFAN_Test",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="IPTV",AXN
+#EXTINF:-1 group-title="URFAN_Test",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCKENTERTAINMENT
+#EXTINF:-1 group-title="URFAN_Test",ROCKENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCKEXTREME
+#EXTINF:-1 group-title="URFAN_Test",ROCKEXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="IPTV",KIXASIA
+#EXTINF:-1 group-title="URFAN_Test",KIXASIA
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="IPTV",GEM
+#EXTINF:-1 group-title="URFAN_Test",GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="IPTV",K+
+#EXTINF:-1 group-title="URFAN_Test",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="IPTV",ONEASIA
+#EXTINF:-1 group-title="URFAN_Test",ONEASIA
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVNASIA
+#EXTINF:-1 group-title="URFAN_Test",TVNASIA
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVNMOVIES
+#EXTINF:-1 group-title="URFAN_Test",TVNMOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="IPTV",CELESTIALMOVIES
+#EXTINF:-1 group-title="URFAN_Test",CELESTIALMOVIES
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="IPTV",CCM
+#EXTINF:-1 group-title="URFAN_Test",CCM
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="IPTV",ZEEBIOSKOP
+#EXTINF:-1 group-title="URFAN_Test",ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="IPTV",THRILL
+#EXTINF:-1 group-title="URFAN_Test",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="IPTV",CINEMAWORLD
+#EXTINF:-1 group-title="URFAN_Test",CINEMAWORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCA
+#EXTINF:-1 group-title="URFAN_Test",MCA
 http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="IPTV",MFC
+#EXTINF:-1 group-title="URFAN_Test",MFC
 http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
-#EXTINF:-1 group-title="IPTV",MCE
+#EXTINF:-1 group-title="URFAN_Test",MCE
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCN
+#EXTINF:-1 group-title="URFAN_Test",MCN
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="IPTV",PLAY
+#EXTINF:-1 group-title="URFAN_Test",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",DFC
+#EXTINF:-1 group-title="URFAN_Test",DFC
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
-#EXTINF:-1 group-title="IPTV",LIFESTYLE
+#EXTINF:-1 group-title="URFAN_Test",LIFESTYLE
 http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="IPTV",LEARNING&KNOWLEDGE
+#EXTINF:-1 group-title="URFAN_Test",LEARNING&KNOWLEDGE
 http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",SHOWBIZ
+#EXTINF:-1 group-title="URFAN_Test",SHOWBIZ
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",CNA
+#EXTINF:-1 group-title="URFAN_Test",CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
-#EXTINF:-1 group-title="IPTV",NHKWORLD
+#EXTINF:-1 group-title="URFAN_Test",NHKWORLD
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-#EXTINF:-1 group-title="IPTV",ALJAZEERAENGLISH
+#EXTINF:-1 group-title="URFAN_Test",ALJAZEERAENGLISH
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRTWORLD
+#EXTINF:-1 group-title="URFAN_Test",TRTWORLD
 http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",WION
+#EXTINF:-1 group-title="URFAN_Test",WION
 http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",UA
+#EXTINF:-1 group-title="URFAN_Test",UA
 http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",ALJAZEERA
+#EXTINF:-1 group-title="URFAN_Test",ALJAZEERA
 http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1 group-title="IPTV",CCTV4
+#EXTINF:-1 group-title="URFAN_Test",CCTV4
 http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 group-title="IPTV",FRANCE24
+#EXTINF:-1 group-title="URFAN_Test",FRANCE24
 http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 group-title="IPTV",TV5MONDE
+#EXTINF:-1 group-title="URFAN_Test",TV5MONDE
 http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
-#EXTINF:-1 group-title="IPTV",DWTV
+#EXTINF:-1 group-title="URFAN_Test",DWTV
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
+#EXTINF:-1 group-title="URFAN_Test",CGTNDOCUMENTARY
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="IPTV",BLOOMBERGTV
+#EXTINF:-1 group-title="URFAN_Test",BLOOMBERGTV
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
-#EXTINF:-1 group-title="IPTV",STYLE
+#EXTINF:-1 group-title="URFAN_Test",STYLE
 http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
+#EXTINF:-1 group-title="URFAN_Test",FIGHTSPORTS
 http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
+#EXTINF:-1 group-title="URFAN_Test",MOTORVISIONTV
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="IPTV",EGGNETWORK
+#EXTINF:-1 group-title="URFAN_Test",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVKU
+#EXTINF:-1 group-title="URFAN_Test",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="IPTV",ADITV
+#EXTINF:-1 group-title="URFAN_Test",ADITV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",TATV
+#EXTINF:-1 group-title="URFAN_Test",TATV
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
-
