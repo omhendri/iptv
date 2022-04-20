@@ -107,17 +107,6 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
-<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="Lokal",GTV-->
-<!--https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd-->
-
-<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
-<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal",MNCTV-->
-<!--https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd-->
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="Lokal",RTV
@@ -130,54 +119,48 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="Lokal",TVONE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="LOKAL (Android Only)",TVONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Lokal",DAAI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="LOKAL (Android Only)",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="Lokal",JTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="LOKAL (Android Only)",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="Lokal",JAKTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="LOKAL (Android Only)",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="Lokal",BALI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="LOKAL (Android Only)",BALI TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="Lokal",TVRI
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="LOKAL (Android Only)",TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="Lokal",Kompas TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="LOKAL (Android Only)",Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="Lokal",Berita Satu
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="LOKAL (Android Only)",Berita Satu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" group-title="Lokal",BandungTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" group-title="LOKAL (Android Only)",BandungTV
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
-<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/seatoday.png" group-title="News",SEA TODAY-->
-<!--https://liveanevia.mncnow.id/live/eds/Sea-Channel/sa_dash_vmx/Sea-Channel.mpd-->
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -193,11 +176,6 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" group-title="News",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mncnews.png" group-title="News",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -348,16 +326,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneychannel.png" group-title="Kids",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneyjunior.png" group-title="Kids",Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -537,119 +505,119 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 ========================================================Urfan================================================
 
 #EXTM3U
-#EXTINF:-1 group-title="IPTV",SCTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
+#EXTINF:-1 group-title="IPTV (URFAN List)",INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANSTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANS7
+#EXTINF:-1 group-title="IPTV (URFAN List)",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="IPTV",KOMPASTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV",NETTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV",RTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI
+#EXTINF:-1 group-title="IPTV (URFAN List)",TVRI
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATU
+#EXTINF:-1 group-title="IPTV (URFAN List)",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUWORLD
+#EXTINF:-1 group-title="IPTV (URFAN List)",BERITASATUWORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
+#EXTINF:-1 group-title="IPTV (URFAN List)",BERITASATUENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",ANIPLUS
+#EXTINF:-1 group-title="IPTV (URFAN List)",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIMAX
+#EXTINF:-1 group-title="IPTV (URFAN List)",ANIMAX
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="IPTV",MKIDZ
+#EXTINF:-1 group-title="IPTV (URFAN List)",MKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="IPTV",TOONKIDZ
+#EXTINF:-1 group-title="IPTV (URFAN List)",TOONKIDZ
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
-#EXTINF:-1 group-title="IPTV",HITS
+#EXTINF:-1 group-title="IPTV (URFAN List)",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="IPTV",AXN
+#EXTINF:-1 group-title="IPTV (URFAN List)",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCKENTERTAINMENT
+#EXTINF:-1 group-title="IPTV (URFAN List)",ROCKENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCKEXTREME
+#EXTINF:-1 group-title="IPTV (URFAN List)",ROCKEXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="IPTV",KIXASIA
+#EXTINF:-1 group-title="IPTV (URFAN List)",KIXASIA
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="IPTV",GEM
+#EXTINF:-1 group-title="IPTV (URFAN List)",GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="IPTV",K+
+#EXTINF:-1 group-title="IPTV (URFAN List)",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="IPTV",ONEASIA
+#EXTINF:-1 group-title="IPTV (URFAN List)",ONEASIA
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVNASIA
+#EXTINF:-1 group-title="IPTV (URFAN List)",TVNASIA
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVNMOVIES
+#EXTINF:-1 group-title="IPTV (URFAN List)",TVNMOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="IPTV",CELESTIALMOVIES
+#EXTINF:-1 group-title="IPTV (URFAN List)",CELESTIALMOVIES
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="IPTV",CCM
+#EXTINF:-1 group-title="IPTV (URFAN List)",CCM
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="IPTV",ZEEBIOSKOP
+#EXTINF:-1 group-title="IPTV (URFAN List)",ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="IPTV",THRILL
+#EXTINF:-1 group-title="IPTV (URFAN List)",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="IPTV",CINEMAWORLD
+#EXTINF:-1 group-title="IPTV (URFAN List)",CINEMAWORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCA
+#EXTINF:-1 group-title="IPTV (URFAN List)",MCA
 http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="IPTV",MFC
+#EXTINF:-1 group-title="IPTV (URFAN List)",MFC
 http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
-#EXTINF:-1 group-title="IPTV",MCE
+#EXTINF:-1 group-title="IPTV (URFAN List)",MCE
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCN
+#EXTINF:-1 group-title="IPTV (URFAN List)",MCN
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="IPTV",PLAY
+#EXTINF:-1 group-title="IPTV (URFAN List)",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",DFC
+#EXTINF:-1 group-title="IPTV (URFAN List)",DFC
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
-#EXTINF:-1 group-title="IPTV",LIFESTYLE
+#EXTINF:-1 group-title="IPTV (URFAN List)",LIFESTYLE
 http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="IPTV",LEARNING&KNOWLEDGE
+#EXTINF:-1 group-title="IPTV (URFAN List)",LEARNING&KNOWLEDGE
 http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",SHOWBIZ
+#EXTINF:-1 group-title="IPTV (URFAN List)",SHOWBIZ
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",CNA
+#EXTINF:-1 group-title="IPTV (URFAN List)",CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
-#EXTINF:-1 group-title="IPTV",NHKWORLD
+#EXTINF:-1 group-title="IPTV (URFAN List)",NHKWORLD
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-#EXTINF:-1 group-title="IPTV",ALJAZEERAENGLISH
+#EXTINF:-1 group-title="IPTV (URFAN List)",ALJAZEERAENGLISH
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRTWORLD
+#EXTINF:-1 group-title="IPTV (URFAN List)",TRTWORLD
 http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",WION
+#EXTINF:-1 group-title="IPTV (URFAN List)",WION
 http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",UA
+#EXTINF:-1 group-title="IPTV (URFAN List)",UA
 http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",ALJAZEERA
+#EXTINF:-1 group-title="IPTV (URFAN List)",ALJAZEERA
 http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1 group-title="IPTV",CCTV4
+#EXTINF:-1 group-title="IPTV (URFAN List)",CCTV4
 http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 group-title="IPTV",FRANCE24
+#EXTINF:-1 group-title="IPTV (URFAN List)",FRANCE24
 http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 group-title="IPTV",TV5MONDE
+#EXTINF:-1 group-title="IPTV (URFAN List)",TV5MONDE
 http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
-#EXTINF:-1 group-title="IPTV",DWTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",DWTV
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
+#EXTINF:-1 group-title="IPTV (URFAN List)",CGTNDOCUMENTARY
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="IPTV",STYLE
+#EXTINF:-1 group-title="IPTV (URFAN List)",STYLE
 http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
+#EXTINF:-1 group-title="IPTV (URFAN List)",FIGHTSPORTS
 http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
+#EXTINF:-1 group-title="IPTV (URFAN List)",MOTORVISIONTV
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="IPTV",EGGNETWORK
+#EXTINF:-1 group-title="IPTV (URFAN List)",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVKU
+#EXTINF:-1 group-title="IPTV (URFAN List)",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="IPTV",TATV
+#EXTINF:-1 group-title="IPTV (URFAN List)",TATV
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
