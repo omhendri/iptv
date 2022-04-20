@@ -29,26 +29,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 // KIDS
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] Mentari TV _VIDIO" group-title="OM_HENDRI - VIDIO",[OM_HENDRI] FIFA World Cup Qatar 2022 _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/8Uruoktf9WtjEmoF2vFgyuC9paM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] TV Edukasi _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] Seni Menggambar _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
-
-// BERITA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/i2UHtnLoP9ZY-p91ZPIS1SNp4Sc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-hls-test-6bc2ee.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] NHK Newsline _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] NHK Newsline _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IQFqKIbeyevKjC8dXu8FXht94HQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] DW News _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] DW News _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/D1OrDJQmT6WqfzeDFHGAQoUbJ68=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] TV Tempo _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] TV Tempo _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
-
-// RELIGI
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] U Channel _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] Revolution Tv _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lx7oUbYJydZuOl0kpvxEbnTzT6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] DAAI TV _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] TBA _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] Nusantara TV _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] Vklip Tematik _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/hoS6Jo9rM8wie723mTleODvZjCo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" tvg-id=".SHINTA" tvg-name"[OM_HENDRI] Reformed TV _VIDIO" group-title="USEETV - VIDIO",[OM_HENDRI] Seminar _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd446503011668def857b1c03bafabba51
 
 //LOCAL USEETV - @RiyanCoday
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="USEETV",Ruang Trampil _USEETV 
